@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "antd": "^6.6.4",
+    "dayjs": "^1.11.23",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "valtio": "^2.3.2"
   },
   "devDependencies": {
     "@types/node": "^24.13.3",
